@@ -19,6 +19,7 @@ The pipeline:
 - Pandas
 - Requests
 - SQL
+- Google BigQuery
 - GitHub
 
 ---
@@ -57,7 +58,7 @@ temp_range = max_temp - min_temp
 
 ---
 
-## Future Improvements
+## Implemented Features
 
 - BigQuery integration
 - Automated scheduling
